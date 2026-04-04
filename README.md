@@ -67,11 +67,6 @@ Projeto de aplicativo de receitas com instrucoes detalhadas, planejamento de ref
 
 ---
 
-## Ordem recomendada para Sprint 1
-- PB-01, PB-02, PB-04, PB-13, PB-14, PB-15, PB-23, PB-32, PB-33, PB-34, PB-35, PB-37
-
-## User Stories por Sprint (3 sprints)
-
 ### Sprint 1 - Base do produto
 
 | ID | User Story | Prioridade | Pontos |
